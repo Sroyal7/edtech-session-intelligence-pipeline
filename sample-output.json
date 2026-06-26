@@ -1,0 +1,144 @@
+// SAMPLE OUTPUT: Two Real Consultant Sessions (Anonymized)
+//
+// What you're seeing:
+// 1. Raw prospect interaction → Claude processing → Structured JSON
+// 2. Psychology signals embedded (which follow-up will work, urgency, hidden objections)
+// 3. Confidence scoring for uncertain inferences (manual review triggers)
+// 4. Conversion readiness assessment based on Phase 1-5 psychology framework
+//
+// Example 1 (PK): High-confidence prospect (0.88). Asks detailed questions, engaged,
+//                 clear pain point. Follow-up: Email + webinar invite + deadline.
+// Example 2 (AM): Medium-confidence prospect (0.72). Practical, comparing options,
+//                 partner influence uncertain. Follow-up: Comparison doc, wait for callback.
+//
+// Notice how confidence scores and objection types drive the follow-up strategy.
+// Same prospect interest level, different follow-up approach = psychology-driven.
+
+[
+  {
+    "session": {
+      "date": "2026-05-10",
+      "duration_minutes": 18,
+      "consultant_name": "Consultant A",
+      "session_type": "discovery"
+    },
+    "prospect": {
+      "name": "PK (anonymized)",
+      "email": "prospect.pk@email.com",
+      "phone": "+91-XXXXXXXXXX",
+      "age_range": "26-35",
+      "education_background": "BBA Finance, Mumbai University. Currently HR Coordinator at EdTech startup (3 years exp).",
+      "career_stage": "early-career",
+      "skill_interest": "labor law and employment law",
+      "geographic_location": "Mumbai, India"
+    },
+    "session_summary": {
+      "questions_asked": [
+        "What is the actual course duration and time commitment per week?",
+        "Do you have placement support after completion?",
+        "Will the certification be recognized by law firms / corporates in India?",
+        "What is the cost breakdown – is there a payment plan?"
+      ],
+      "pain_points_identified": [
+        "Current HR role feels transactional, wants deeper legal knowledge for career growth",
+        "Worried about upskilling without leaving job (time-constrained, 9–6 work + gym 2 hrs/day)",
+        "Concerned about certification relevance in Indian legal/corporate market",
+        "Budget-conscious – limited savings, needs affordable option"
+      ],
+      "interest_signals": {
+        "interest_level": "high",
+        "confidence": 0.88,
+        "reason": "Prospect asked detailed questions, took notes, and mentioned 'seriously considering this change' twice. Identified specific use case (wants to move from HR to legal roles)."
+      },
+      "objections_raised": [
+        "Time commitment (works 9–6, gym 2 hrs evening, cannot dedicate weekdays)",
+        "Price sensitivity (expecting ₹15,000–20,000, concerned if higher)",
+        "Doubt about hiring value: will law firms / corporates actually hire from online certification?"
+      ],
+      "objections_addressed": [
+        "Time: Explained async model, weekend live sessions optional, realistic 6–8 hours/week. Prospect confirmed gym is non-negotiable.",
+        "Price: Shared ROI calculation (junior HR @ ₹6L/yr → senior legal HR @ ₹8.5L/yr, 42% uplift, 2-year payback)",
+        "Credibility: Named 5 alumni now at corporate legal teams, mentioned Cyril Shroff network + Bar Council acknowledgment"
+      ]
+    },
+    "conversion_signals": {
+      "readiness_to_enroll": "considering",
+      "decision_timeline": "1-month",
+      "next_step_agreed": "Send detailed course syllabus + alumni case studies (3 legal HR careers). Invite to free webinar (May 18, evening). Callback May 25.",
+      "final_status": "follow-up"
+    },
+    "follow_up": {
+      "suggested_action": "Email 1 (May 11): Course outline + ₹3K early-bird discount (48-hr window). Email 2 (May 13): Webinar invite + 'last 2 spots' scarcity signal. Phone call May 25: Address final objection (has partner reviewed decision?), close.",
+      "urgency": "medium",
+      "clarification_needed": null
+    },
+    "metadata": {
+      "processed_at": "2026-05-10T16:45:00Z",
+      "version": "1.0",
+      "notes": "High-confidence converter. Gym commitment signal shows realistic time-wasting prevention. Webinar attendance is critical decision point. Early-bird discount effective for this segment."
+    }
+  },
+  {
+    "session": {
+      "date": "2026-05-12",
+      "duration_minutes": 22,
+      "consultant_name": "Consultant A",
+      "session_type": "discovery"
+    },
+    "prospect": {
+      "name": "AM (anonymized)",
+      "email": "prospect.am@email.com",
+      "phone": "+91-XXXXXXXXXX",
+      "age_range": "35-45",
+      "education_background": "B.Comm, Delhi University. 12 years experience as office manager at insurance firm. No degree beyond undergrad.",
+      "career_stage": "mid-career",
+      "skill_interest": "regulatory compliance and insurance law",
+      "geographic_location": "Gurgaon, India"
+    },
+    "session_summary": {
+      "questions_asked": [
+        "Is this recognized by Insurance Regulatory and Development Authority (IRDA)?",
+        "Can I do this while working full-time? How?",
+        "Will this help me move into compliance officer role?"
+      ],
+      "pain_points_identified": [
+        "Stuck in administrative role, wants compliance career (higher pay, authority)",
+        "Frustrated by lack of formal law/compliance credentials; worried about age-based hiring bias (35+)",
+        "Needs income stability during transition (cannot leave job)"
+      ],
+      "interest_signals": {
+        "interest_level": "medium",
+        "confidence": 0.72,
+        "reason": "Asked practical, focused questions. Expressed clear motivation (compliance role goal). But hesitated on price and didn't take notes – suggests comparing other options."
+      },
+      "objections_raised": [
+        "Regulatory recognition: IRDA doesn't recognize online certs; compliance roles prefer law degrees",
+        "Age concern: 'will companies hire 35+ without traditional law background?'",
+        "Cost: 'seems expensive for someone already earning ok salary'"
+      ],
+      "objections_addressed": [
+        "Regulatory: Explained compliance officer pathway doesn't require IRDA cert, but insurance law knowledge is. Most hiring is based on competency + network.",
+        "Age: Shared 3 alumni hired into compliance roles at 35–45; age is not the barrier, credential gap is.",
+        "Cost: Positioned as investment in authority/salary jump; ROI is 2.5 years at ₹10L/yr roles (vs. current ₹5.5L)"
+      ]
+    },
+    "conversion_signals": {
+      "readiness_to_enroll": "early-stage",
+      "decision_timeline": "1-month",
+      "next_step_agreed": "Send comparison (online cert + job coaching vs. part-time law degree). No commitment to webinar; will 'think and call back in 2 weeks'.",
+      "final_status": "deferred"
+    },
+    "follow_up": {
+      "suggested_action": "Email 1 (May 13): Comparison doc + alumni in insurance compliance roles. Do NOT call; wait for prospect to call back. If no contact by May 26, send 'We still have May spots' reminder.",
+      "urgency": "low",
+      "clarification_needed": [
+        "REQUIRES_CLARIFICATION: Prospect mentioned 'partner says I'm overthinking' – is there household support or hesitation? Manual follow-up should probe this."
+      ]
+    },
+    "metadata": {
+      "processed_at": "2026-05-12T17:20:00Z",
+      "version": "1.0",
+      "notes": "Mid-confidence lead. Very practical, not emotionally driven. Will convert if comparison doc + alumni stories address regulatory concern. Partner influence is a variable; depends on household financial decision-making."
+    }
+  }
+]

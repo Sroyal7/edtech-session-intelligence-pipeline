@@ -1,0 +1,21 @@
+# Environment
+.env
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# Output files (don't commit real prospect data)
+profiles/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Internal Cowork files
+memory.md
+CLAUDE.md
+ACCOUNTABILITY_MESSAGE_TEMPLATE.md
+GITHUB_SETUP_GUIDE.md
+PROJECT_BRIEF.md
