@@ -10,22 +10,22 @@
 STAGE 1: AI GENERATES CONSULTATION BLUEPRINT
          └─ Claude/GPT-4 creates 7-phase framework with dynamic questions
             based on lead signals and objection patterns
-         
+
 STAGE 2: AI REFINES CONVERSATION IN REAL-TIME
          └─ During consultation: AI suggests contextual follow-up questions
             based on lead's profile, stated constraints, and objections
-         
+
 STAGE 3: CONSULTANT CAPTURES RAW NOTES
          └─ Q&A responses, signals, emotional triggers documented
-         
+
 STAGE 4: AI STRUCTURES THE OUTPUT
          └─ EdTech Workflow converts raw notes into template-based
             structured candidate profile (10+ key signals)
-         
+
 STAGE 5: AI ANALYZES CONVERSION READINESS
          └─ Conversion likelihood rated (HIGH/MEDIUM/LOW) with
             1-line explanation of primary driver or blocker
-         
+
 STAGE 6: CRM ENTRY (MANUAL, <2 MINS)
          └─ Copy-paste structured profile into system
 ```
@@ -91,8 +91,8 @@ After the 20-minute consultation, the consultant has:
 
 **Example raw note:**
 ```
-"Bangalore, 3 yrs DevOps, hybrid converting to office, managing kids, 
-wants work-life balance, current 15 LPA, expects 18–20 LPA, 5–6 month timeline, 
+"Bangalore, 3 yrs DevOps, hybrid converting to office, managing kids,
+wants work-life balance, current 15 LPA, expects 18–20 LPA, 5–6 month timeline,
 just married, husband is civil engineer, has consistent best rating from manager.
 Worried about office mandate affecting family time. Interested in remote roles."
 ```
@@ -105,14 +105,14 @@ The **EdTech Workflow** (Claude Artifact with custom prompt) takes the raw consu
 
 ### Output Structure:
 ```
-👤 Profile Summary
-💼 Professional Details (experience, role history, skills, education)
-💰 Compensation (current, expected, timeline-influenced)
+Profile Summary
+Professional Details (experience, role history, skills, education)
+Compensation (current, expected, timeline-influenced)
 ⏰ Timeline/Availability (readiness, flexibility, constraints)
-🧠 Strength Signals (ratings, consistency, mindset, adaptability)
-⚠️ Risk Flags (blockers, dependencies, burnout risk)
-🎯 Key Insight (core motivation, real constraint, urgency driver)
-🎪 Conversion Strategy (talk track, positioning angle, objection handling)
+Strength Signals (ratings, consistency, mindset, adaptability)
+Risk Flags (blockers, dependencies, burnout risk)
+Key Insight (core motivation, real constraint, urgency driver)
+Conversion Strategy (talk track, positioning angle, objection handling)
 ```
 
 **Example structured output:**
@@ -168,7 +168,7 @@ Talk Track: Offer remote role + structured upskilling roadmap addressing family 
 
 ---
 
-**Document Status:** Integration framework documented  
-**Last Updated:** May 16, 2026  
-**Use Case:** Skill Arbitrage Remote Work for Women AI Bootcamp (live production, 500+ consultants trained, 100+ sessions)
+**Document Status:** Integration framework documented
+**Last Updated:** May 16, 2026
+**Use Case:** Skill Arbitrage Remote Work for Women AI Bootcamp (live production, 100+ sessions, February to April 2026)
 

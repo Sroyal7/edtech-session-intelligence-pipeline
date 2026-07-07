@@ -6,42 +6,42 @@
 
 ## Example 1: Career Restart – Logistics to Data Entry (New Delhi)
 
-### 📋 Raw Input
+### Raw Input
 ```
 New Delhi
-2-3 yrs - Industrial Area - Mobile Charger Making Company 
-Career Break Since jan 2025 
+2-3 yrs - Industrial Area - Mobile Charger Making Company
+Career Break Since jan 2025
 Responsibilities - Logistics Dept
 Searching since - 1 week - in Naukri, Indeed, Indeed - mostly Fraud Calls
-Looking for System Work - Data Entry, managing the data 
+Looking for System Work - Data Entry, managing the data
 Remote - Due to Medical Issues
 Want to utilise the Skills
 Skills - MS Office, Don't know about AI
-Can give 4-6hrs 
+Can give 4-6hrs
 Expecting 25-30k
-Financial Commitments - that wanted to cover in 3-4 months 
+Financial Commitments - that wanted to cover in 3-4 months
 3-5yr - own Property
 want to start within 15-20 days
 Currently living with family, Financially Dependent on Family
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** New Delhi
 - **Experience:** 2–3 yrs (Logistics, Industrial Area)
 - **Current Status:** Career break since Jan 2025
 - **Searching Duration:** 1 week (early stage)
 
-**💼 Professional Details**
+**Professional Details**
 
 - **Target Role:** Data entry, data management (remote)
 - **Reason Remote:** Medical issues
 - **Skills:** MS Office (foundational), no AI background
 - **Previous Responsibilities:** Logistics Department
 
-**💰 Compensation & Timeline**
+**Compensation & Timeline**
 
 - **Salary Expectation:** ₹25–30K
 - **Financial Commitment:** Cover expenses in 3–4 months
@@ -53,19 +53,19 @@ Currently living with family, Financially Dependent on Family
 - **Living Situation:** With family, financially dependent
 - **Long-term Goal:** Own property in 3–5 years
 
-**⚠️ Key Pain Points**
+**Key Pain Points**
 
 - Fraud calls on job boards (unclear market)
 - Medical issues requiring remote work
 - Financial pressure (need to cover commitments in 3–4 months)
 
-**🎯 Key Insight:** Early-stage seeker with medical constraint + urgency (15–20 days). Needs confidence + structured onboarding.
+**Key Insight:** Early-stage seeker with medical constraint + urgency (15–20 days). Needs confidence + structured onboarding.
 
 ---
 
 ## Example 2: High-Growth Technical Lead – DevOps Engineer (Hyderabad)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Hyderabad
 IT Background - 3 yrs
@@ -87,9 +87,9 @@ Can commit: 1-2 hours daily for upskilling
 Sole decision maker
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** Hyderabad
 - **Experience:** 3 yrs DevOps
@@ -97,20 +97,20 @@ Sole decision maker
 - **Current Role:** DevOps Engineer (Product company, team of 4)
 - **Decision Maker:** Sole
 
-**💼 Technical Skills & Tools**
+**Technical Skills & Tools**
 
 - **Specialization:** DevOps Engineering
 - **Tools:** GitHub Actions, Azure, pipeline management, configuration tools
 - **Currently Learning:** Kubernetes, Terraform
 - **Work Capacity:** Can commit 1–2 hrs daily for upskilling
 
-**💰 Compensation**
+**Compensation**
 
 - **Current Salary:** 15 LPA (Hybrid)
 - **Expected Salary:** 18–20 LPA
 - **Basis:** Upskilling + structured growth
 
-**🎯 Motivation & Pain Points**
+**Motivation & Pain Points**
 
 - **Primary Pain:** 2-hour commute (dealbreaker)
 - **Solution Preference:** Remote work (more productive, efficient)
@@ -123,26 +123,26 @@ Sole decision maker
 - **Early Switch Possible:** 2 months (notice period)
 - **Upskilling Commitment:** 1–2 hrs daily
 
-**🧠 Strength Signals**
+**Strength Signals**
 
-- ✔ Consistent best rating
-- ✔ Already upskilling (Kubernetes, Terraform)
-- ✔ Structured mindset
-- ✔ Clear career trajectory
+- Consistent best rating
+- Already upskilling (Kubernetes, Terraform)
+- Structured mindset
+- Clear career trajectory
 
-**👨‍👩‍👧 Personal Context**
+**Personal Context**
 
 - Recently married
 - Planning better education for kids (future financial planning)
 - Spouse: Civil Engineer
 
-**🎯 Key Insight:** HIGH-INTENT growth lead. Pain point (commute) + career trajectory clear + commitment evident. Ready for structured roadmap conversation.
+**Key Insight:** HIGH-INTENT growth lead. Pain point (commute) + career trajectory clear + commitment evident. Ready for structured roadmap conversation.
 
 ---
 
 ## Example 3: Stable But Uncommitted – Accounting Professional (Kerala)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Kerala
 Doing WFH - Accounts - 3 yrs in total 10 yrs experience
@@ -154,46 +154,46 @@ Cleared CA Intermediate & articleship
 MCom Grad - 2015
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** Kerala (WFH setup)
 - **Total Experience:** 10 yrs
 - **Current Role Duration:** 3 yrs (WFH accounting)
 - **Education:** MCom (2015)
 
-**🎓 Qualifications & Certifications**
+**Qualifications & Certifications**
 
 - CA Intermediate + Articleship (cleared)
 - Excel Certification
 - Tally Certification
 
-**💼 Professional Details**
+**Professional Details**
 
 - **Skills:** Tally, Excel, Bookkeeping, Accounting processes
 - **Work History:** Cooperative firms, CA firms
 - **Availability:** 5 hrs/week (part-time exploration)
 - **Current Status:** Exploring part-time (not committed to full-time)
 
-**⚠️ Red Flags**
+**Red Flags**
 
-- ❗ Exploring (not committed)
-- ❗ No urgency evident
-- ❗ No clear income goal articulated
-- ❗ "Part-time" signals low commitment
+- Exploring (not committed)
+- No urgency evident
+- No clear income goal articulated
+- "Part-time" signals low commitment
 
-**🎯 Conversion Strategy**
+**Conversion Strategy**
 
 - Needs: Income motivation trigger, clear financial goal, timeline pressure
 
-**🎯 Key Insight:** Stable candidate but LOW INTENT. Has skills but lacks urgency. Needs financial goal articulation or external catalyst to convert.
+**Key Insight:** Stable candidate but LOW INTENT. Has skills but lacks urgency. Needs financial goal articulation or external catalyst to convert.
 
 ---
 
 ## Example 4: Career Break → Part-Time Work – Software Engineer (Ahmedabad)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Ahmedabad
 Soft Eng. - 15 yrs
@@ -207,28 +207,28 @@ Long term Goals - Investments
 Start: 1 month
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** Ahmedabad
 - **Total Experience:** 15 yrs (Software Engineering)
 - **Education:** CS Engineer (2007)
 - **Current Status:** Career break recovery
 
-**💼 Professional Details**
+**Professional Details**
 
 - **Programming Skills:** Java, Python
 - **Previous Salary:** 50 LPA
 - **Current Activity:** Part-time AI model training
 - **Daily Availability:** 2–3 hrs
 
-**🏥 Health & Career Break**
+**Health & Career Break**
 
 - **Break Duration:** 18 months (health issue)
 - **Recovery Status:** Returning to work
 
-**🎯 Career Motivation**
+**Career Motivation**
 
 - **Current Goal:** Income-generating, flexible work
 - **Long-term Goal:** Investment income (extra revenue stream)
@@ -239,19 +239,19 @@ Start: 1 month
 - **Start Date:** 1 month
 - **Ideal Fit:** Structured AI training roles that fit 2–3 hrs/day with clear ROI
 
-**💡 Profile Type**
+**Profile Type**
 
 - Experienced engineer in recovery mode
 - Seeking flexible work with income generation
 - Not looking for full-time return yet
 
-**🎯 Key Insight:** EXPERIENCED + FLEXIBLE. Health recovery → wants part-time. AI training is perfect fit. Clear timeline (1 month). Moderate-high conversion potential.
+**Key Insight:** EXPERIENCED + FLEXIBLE. Health recovery → wants part-time. AI training is perfect fit. Clear timeline (1 month). Moderate-high conversion potential.
 
 ---
 
 ## Example 5: Boredom-Driven Exit – Business Development (Punjab)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Punjab
 3 yrs - IT Company - Business Development
@@ -266,22 +266,22 @@ Currently: Managing through savings
 Doesn't want to be financial burden on parents
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** Punjab
 - **Experience:** 3 yrs Business Development (IT company)
 - **Education:** MBA (Sales & Marketing)
 - **Current Status:** Career break (1 month, left due to boredom)
 
-**💼 Professional Skills & Experience**
+**Professional Skills & Experience**
 
 - **Expertise:** Lead funneling, Sales closing, Web & mobile apps
 - **Specialization Preference:** Marketing (preferred over sales)
 - **Skills:** Sales & Marketing
 
-**💰 Compensation & Financial Status**
+**Compensation & Financial Status**
 
 - **Previous Salary:** ₹50–60K
 - **Expected Salary:** Same (₹50–60K)
@@ -293,24 +293,24 @@ Doesn't want to be financial burden on parents
 - **Daily Hours:** 6–8 hrs available
 - **Timeline:** Not specified (open, no urgency)
 
-**⚠️ Red Flags & Risk Assessment**
+**Red Flags & Risk Assessment**
 
-- ✔ Capability present
-- ❗ Direction missing (sales vs marketing unclear)
-- ❗ Discipline questionable (left due to boredom, not crisis)
-- ❗ Urgency hidden (not activated yet)
+- Capability present
+- Direction missing (sales vs marketing unclear)
+- Discipline questionable (left due to boredom, not crisis)
+- Urgency hidden (not activated yet)
 
-**🎯 Conversion Strategy**
+**Conversion Strategy**
 
 - Needs: Direction clarity, purpose beyond income, structured growth roadmap
 
-**🎯 Key Insight:** CAPABLE BUT LOST. Left due to boredom, not crisis. Has financial runway. Needs purpose + direction to convert. Higher deferral risk if not given clarity.
+**Key Insight:** CAPABLE BUT LOST. Left due to boredom, not crisis. Has financial runway. Needs purpose + direction to convert. Higher deferral risk if not given clarity.
 
 ---
 
 ## Example 6: Work-Life Balance Reset – Senior Technician (Bangalore)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Bangalore
 Working in Dell - 5 yrs
@@ -324,50 +324,50 @@ Current salary: 9 LPA
 Expected: 10–12 LPA
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** Bangalore
 - **Total Experience:** 8 yrs (Dell 5 yrs + Flipkart 3 yrs)
 - **Education:** MCA (2018)
 - **Current Role:** Senior Technician (Software + Hardware troubleshooting)
 
-**💼 Professional Skills**
+**Professional Skills**
 
 - **Specialization:** Software & Hardware troubleshooting
 - **Skills:** Web Design, Excel, Power BI
 - **Technical Depth:** Senior-level expertise
 
-**💰 Compensation**
+**Compensation**
 
 - **Current Salary:** 9 LPA
 - **Expected Salary:** 10–12 LPA (modest growth)
 - **Motivation:** Role + flexibility, not just money
 
-**⚠️ Current Pain Points**
+**Current Pain Points**
 
-- ❗ Remote → office mandate (dealbreaker)
-- ❗ Work-life balance issue (kids to manage)
-- ❗ Hectic current work environment
+- Remote → office mandate (dealbreaker)
+- Work-life balance issue (kids to manage)
+- Hectic current work environment
 
-**👨‍👩‍👧 Personal Context & Core Need**
+**Personal Context & Core Need**
 
 - **Family Status:** Have kids
 - **Primary Need:** Remote work + manageable hours + tech role
-- **Career Goal:** Not seeking promotion—seeking stability + balance
+- **Career Goal:** Not seeking promotion, seeking stability + balance
 
-**🎯 Conversion Strategy**
+**Conversion Strategy**
 
 - Remote technical roles (support, training, documentation) with fixed hours
 
-**🎯 Key Insight:** HIGH-INTENT RESTART. Clear pain (office mandate) + clear need (remote + balance). Moderate salary expectation. Ready for quick conversion if right role presented.
+**Key Insight:** HIGH-INTENT RESTART. Clear pain (office mandate) + clear need (remote + balance). Moderate salary expectation. Ready for quick conversion if right role presented.
 
 ---
 
 ## Example 7: Career Restart After Break – Accounting (Haldwani)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Haldwani
 Experience: 10 yrs (TCS background)
@@ -386,29 +386,29 @@ Availability: 9-hour shift
 Motivation: "Don't want to waste 10 yrs experience"
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** Haldwani
 - **Total Experience:** 10 years (TCS background)
 - **Career Status:** Career break ~1 year, now returning
 - **Background:** TCS veteran, seeking restart
 
-**💼 Work Experience**
+**Work Experience**
 
 - **BPO Billing:** 2016
 - **Vendor Management & Settlement:** Recent/active
 - **Roles:** Account Executive responsibilities
 - **Tools & Systems:** SAP (hands-on), Oracle (hands-on)
 
-**🎓 Education & Current Upskilling**
+**Education & Current Upskilling**
 
 - **Education:** B.Com (2015), CIA – Computer Application (2015–16)
 - **Self-Directed Learning:** Accounts Payable (YouTube upskilling)
 - **Learning Approach:** Active, independent skill development
 
-**🧠 Skills & Expertise**
+**Skills & Expertise**
 
 - Accounts and accounting processes
 - SAP & Oracle (hands-on exposure)
@@ -416,44 +416,44 @@ Motivation: "Don't want to waste 10 yrs experience"
 - Settlement handling
 - Self-directed learning capability
 
-**👨‍👩‍👧 Personal Context & Constraints**
+**Personal Context & Constraints**
 
 - **Child:** 5 years old
 - **Spouse:** Merchant Navy (often away)
 - **Work Constraint:** Remote role needed (child responsibility)
 - **Capacity:** 9-hour shift available
 
-**💰 Compensation & Timeline**
+**Compensation & Timeline**
 
 - **Previous Salary:** 4.5 LPA
 - **Expected Salary:** ~35K/month (~42K annualized)
 - **Expectation Type:** Realistic reset
 - **Timeline:** Wants job within 2–3 months (**URGENT**)
 
-**⚡ Quick Summary**
+**Quick Summary**
 
-👉 10-year accounting professional restarting post-break, seeking remote role with clear 2–3-month timeline and child-care flexibility.
+10-year accounting professional restarting post-break, seeking remote role with clear 2–3-month timeline and child-care flexibility.
 
-**🎯 Key Intent Signals – HIGH CONVERSION**
+**Key Intent Signals – HIGH CONVERSION**
 
-✔ **Clear motivation:** "Don't want to waste 10 yrs experience"
-✔ **Active upskilling:** Learning Accounts Payable independently
-✔ **Specific timeline:** 2–3 months (realistic urgency)
-✔ **Remote-specific need:** Child responsibility (structured reason)
-✔ **Financial clarity:** Modest reset (35K realistic for restart)
-✔ **Work capacity:** 9-hour shift (commitment signal)
+- **Clear motivation:** "Don't want to waste 10 yrs experience"
+- **Active upskilling:** Learning Accounts Payable independently
+- **Specific timeline:** 2–3 months (realistic urgency)
+- **Remote-specific need:** Child responsibility (structured reason)
+- **Financial clarity:** Modest reset (35K realistic for restart)
+- **Work capacity:** 9-hour shift (commitment signal)
 
-**🎪 Conversion Angle**
+**Conversion Angle**
 
 This is a **moderate-to-high intent restart lead**. Urgency is real, motivation is clear, timeline is achievable. Needs: structured onboarding, confidence rebuilding, and clarity that 10 yrs value isn't erased by 1-year break.
 
-**🎯 Key Insight:** HIGHEST CONVERSION POTENTIAL. Clear urgency (2–3 months) + emotional motivation (don't waste experience) + structured reason (child care) + active upskilling. Ready to commit.
+**Key Insight:** HIGHEST CONVERSION POTENTIAL. Clear urgency (2–3 months) + emotional motivation (don't waste experience) + structured reason (child care) + active upskilling. Ready to commit.
 
 ---
 
 ## Example 8: Growth-Focused QA Engineer (MP)
 
-### 📋 Raw Input
+### Raw Input
 ```
 MP, IT sector
 Senior QA - 6.4 yrs experience
@@ -471,22 +471,22 @@ Long-term (3–5 yrs): Leading a Team as QA Specialist
 Status: Continuously working & upskilling
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** MP
 - **Experience:** 6.4 yrs (QA + Automation)
 - **Current Role:** Senior QA Engineer
 - **Specialization:** Software testing, Playwright automation
 
-**🎓 Education & Recent Certifications**
+**Education & Recent Certifications**
 
 - **Education:** MTech CS (2017)
 - **Recent Certs:** Generative AI (last month), Playwright (last month)
 - **Certification Status:** Actively pursuing & recently completed
 
-**💼 Current Professional Status**
+**Current Professional Status**
 
 - **Activity:** Actively looking + upskilling + networking (LinkedIn)
 - **Interviews:** In progress with 7 companies
@@ -494,40 +494,40 @@ Status: Continuously working & upskilling
 - **Current Salary:** 9.4 LPA
 - **Work Preference:** Remote only (mandatory)
 
-**🎯 Career Motivation**
+**Career Motivation**
 
 - **Domain Focus:** AI-domain companies (where they use AI)
 - **Salary Expectations:** Higher based on experience + certifications + projects
 - **Growth Trajectory:** Continuous working & upskilling
 
-**🧠 Strength Signals**
+**Strength Signals**
 
-- ✔ Actively upskilling (just certified in AI + Playwright)
-- ✔ Networking & job searching (LinkedIn active)
-- ✔ Multiple interviews in progress
-- ✔ Clear domain focus (AI companies only)
+- Actively upskilling (just certified in AI + Playwright)
+- Networking & job searching (LinkedIn active)
+- Multiple interviews in progress
+- Clear domain focus (AI companies only)
 
-**👉 Profile Assessment:** Growth-focused technical professional
+**Profile Assessment:** Growth-focused technical professional
 
-**⚠️ Surface-Level Risk**
+**Surface-Level Risk**
 
 - Currently seems transactional (job → salary → remote)
 - No articulated long-term vision yet
 - Missing: connection between "AI interest" and actual career arc
 
-**🎯 High-Intent Signals**
+**High-Intent Signals**
 
-- ✔ Clear long-term goal: QA Specialist Lead (3–5 years)
-- ✔ Proactive skill-building (not waiting)
-- ✔ Selective (AI domain only, remote only)
-- ✔ Interview momentum (7 in progress)
+- Clear long-term goal: QA Specialist Lead (3–5 years)
+- Proactive skill-building (not waiting)
+- Selective (AI domain only, remote only)
+- Interview momentum (7 in progress)
 
-**🎪 Deep Probing Opportunity**
+**Deep Probing Opportunity**
 
 **Current:** "Wants to work at AI companies, earning 9.4 LPA, expects 11–13 LPA"
 **Missing:** Why AI specifically? What's the roadmap from "QA Engineer" to "QA Lead"? How does AI domain accelerate that?
 
-**Conversion Hook:** "You've done the certs. Now—do you know which AI companies are building the exact testing infrastructure you want to own in 3 years? Let's map it."
+**Conversion Hook:** "You've done the certs. Now, do you know which AI companies are building the exact testing infrastructure you want to own in 3 years? Let's map it."
 
 **Fear of Loss (FOMO):** "You're interviewing now, which is good. But without a 3-year roadmap, you'll take the first 12 LPA role that says 'AI' without knowing if it actually grows you toward leading a QA team."
 
@@ -537,13 +537,13 @@ Status: Continuously working & upskilling
 - **QA Lead Path:** Move from IC testing → domain QA architect → people lead
 - **Structured Roadmap:** AI certs (done) → specific AI company (testing infrastructure) → Lead role within 3–5 yrs
 
-**🎯 Key Insight:** GROWTH-READY but unfocused. Multiple certifications + interviews + clear long-term goal = HIGH POTENTIAL. Needs: domain-specific roadmap + FOMO activation (fear of losing trajectory if wrong company choice).
+**Key Insight:** GROWTH-READY but unfocused. Multiple certifications + interviews + clear long-term goal = HIGH POTENTIAL. Needs: domain-specific roadmap + FOMO activation (fear of losing trajectory if wrong company choice).
 
 ---
 
 ## Example 9: Emotionally-Driven Restart – Career Changer (Kolkata)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Kolkata (worked in Bangalore)
 Work experience: Customer Care Executive (less than 1 yr)
@@ -551,7 +551,7 @@ Work experience: Customer Care Executive (less than 1 yr)
 - Sagility (3 months, B2B US Healthcare)
 - Amazon (2 months, B2C Canada)
 Break: 2 months (left job Jan 2026)
-Reason: Switching frequently—couldn't manage expenses
+Reason: Switching frequently, couldn't manage expenses
 Education: BSc (2018), B.Ed
 Teaching experience: ICSE Board (7–8 months) + State Board English TGT Physics (7 months)
 School board: Primary Teacher – Math, Science, Computer
@@ -571,9 +571,9 @@ Long-term (3–5 yrs): Upgrade skills → Managerial role
 Emotional need: Self-dependent ASAP
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Deep Profile**
+**Deep Profile**
 
 **Location & Background**
 
@@ -581,7 +581,7 @@ Emotional need: Self-dependent ASAP
 - **Education:** BSc (2018), B.Ed
 - **Teaching Experience:** ICSE + State Board (7–8 months each role)
 
-**💼 Work Experience – Instability Pattern**
+**Work Experience – Instability Pattern**
 
 - **Customer Care Roles (9 months total):**
   - Concentrix: 4 months (B2B Domestic)
@@ -590,31 +590,31 @@ Emotional need: Self-dependent ASAP
 - **Current Break:** 2 months (Jan 2026)
 - **Reason for Switches:** Unable to manage expenses (affordability issue, not fit issue)
 
-**🎓 Teaching Background**
+**Teaching Background**
 
 - **Primary Teacher (ICSE Board):** Math, Science, Computer (7–8 months)
 - **English TGT Physics (State Board):** 7 months
 - **Pattern:** Multiple roles, short tenure each
 
-**🏥 Health & Personal Context**
+**Health & Personal Context**
 
 - **Medical History:** Open heart surgery, ongoing cardiac health concerns
 - **Personal Status:** Divorcee
 - **Family Support:** Father is Assistant Engineer, Elder brother is Software Engineer (US)
 - **Current Financial Status:** Dependent on parents
 
-**🎯 Current Goal & Motivation**
+**Current Goal & Motivation**
 
 **Primary Goal:** Start comfortably in teaching or tech role
 **Underlying Need:** Become self-dependent ASAP (emotional driver)
 
 **Obstacles**
 
-- ❗ Lack of guidance (doesn't know which path)
-- ❗ Lack of clarity (genuine opportunities unclear)
-- ❗ Career instability pattern (job-hopping due to finances, not fit)
+- Lack of guidance (doesn't know which path)
+- Lack of clarity (genuine opportunities unclear)
+- Career instability pattern (job-hopping due to finances, not fit)
 
-**💻 Technical Interest & Upskilling**
+**Technical Interest & Upskilling**
 
 - **Current Skills:** C, SQL (basic coding knowledge)
 - **Interest:** Shift toward AI
@@ -628,49 +628,49 @@ Emotional need: Self-dependent ASAP
 - **Dedicated Upskilling:** 3–4 hours daily
 - **Signal:** Can commit significant time if path is clear
 
-**💰 Salary & Timeline**
+**Salary & Timeline**
 
 - **Expectation:** ₹20K/month (modest, realistic restart)
 - **Timeline:** Immediate joiner
 - **Urgency:** HIGH (wants independence ASAP)
 
-**🎯 Long-Term Vision (3–5 yrs)**
+**Long-Term Vision (3–5 yrs)**
 
 - Upgrade skills (AI/Python/Tech)
 - Managerial role
 - Self-dependent + stable
 
-**⚡ Quick Summary**
+**Quick Summary**
 
-👉 Career-changer with teaching + BPO background, cardiac health concerns, divorcee seeking AI/tech pivot. Highly emotionally motivated (independence), high availability (8–9 hrs job + 3–4 hrs learning), immediate joiner. Needs: clarity + guidance + confidence.
+Career-changer with teaching + BPO background, cardiac health concerns, divorcee seeking AI/tech pivot. Highly emotionally motivated (independence), high availability (8–9 hrs job + 3–4 hrs learning), immediate joiner. Needs: clarity + guidance + confidence.
 
-**🎯 Conversion Profile – EMOTIONALLY-DRIVEN RESTART**
+**Conversion Profile – EMOTIONALLY-DRIVEN RESTART**
 
 **Strength Signals**
 
-✔ **Clarity on motivation:** Self-dependent is non-negotiable
-✔ **High availability:** 8–9 hrs + 3–4 hrs upskilling = serious commitment
-✔ **Support system:** Family engineers nearby (US + India), learning resources
-✔ **Active upskilling:** 2 months self-directed research ongoing
-✔ **Immediate joiner:** No notice period
-✔ **Realistic expectations:** ₹20K salary is grounded
+- **Clarity on motivation:** Self-dependent is non-negotiable
+- **High availability:** 8–9 hrs + 3–4 hrs upskilling = serious commitment
+- **Support system:** Family engineers nearby (US + India), learning resources
+- **Active upskilling:** 2 months self-directed research ongoing
+- **Immediate joiner:** No notice period
+- **Realistic expectations:** ₹20K salary is grounded
 
 **Risk Flags**
 
-❗ **Instability history:** Multiple 2–4 month job stints (financial stress)
-❗ **Health constraint:** Cardiac issues (energy/availability concern)
-❗ **Decision paralysis:** "Lack of guidance" → needs structured handholding
-❗ **Path confusion:** Teaching vs. tech (not decided)
+- **Instability history:** Multiple 2–4 month job stints (financial stress)
+- **Health constraint:** Cardiac issues (energy/availability concern)
+- **Decision paralysis:** "Lack of guidance" → needs structured handholding
+- **Path confusion:** Teaching vs. tech (not decided)
 
-**🎪 Conversion Strategy**
+**Conversion Strategy**
 
-**Emotional hook:** "You want independence. Here's the path: 3-month structured AI/Python training → guaranteed placement in AI-related role (not BPO, not teaching—actual tech) → 20K starting, 24K by month 6, 28K+ by month 12."
+**Emotional hook:** "You want independence. Here's the path: 3-month structured AI/Python training → guaranteed placement in AI-related role (not BPO, not teaching, actual tech) → 20K starting, 24K by month 6, 28K+ by month 12."
 
 **Fear of Loss (FOMO):** "Without guidance, you'll spend another 2 months researching, then take the first job that's not teaching (probably BPO again). You'll be stuck in the cycle. Structure stops the cycle."
 
-**Confidence Rebuild:** "Your brother is a software engineer. You know C, SQL. You've studied CS in school. You're not starting from zero—you're restarting from paused. There's a difference."
+**Confidence Rebuild:** "Your brother is a software engineer. You know C, SQL. You've studied CS in school. You're not starting from zero, you're restarting from paused. There's a difference."
 
-**Health Acknowledgment:** "We can structure this around your medical needs—no death marches, realistic hours."
+**Health Acknowledgment:** "We can structure this around your medical needs, no death marches, realistic hours."
 
 **Expected Outcome If Converted**
 
@@ -678,13 +678,13 @@ Emotional need: Self-dependent ASAP
 - **Duration:** Likely to stay 18–24+ months once stability achieved (urgency + commitment once independence unlocked)
 - **Loyalty:** Strong (personal motivation is deep)
 
-**🎯 Key Insight:** HIGHEST EMOTIONAL INVESTMENT. Self-dependency motivation is powerful. Needs: **structured guidance + confidence rebuild + path clarity**. Very high conversion if you remove decision paralysis. Major retention risk if guidance lacks clarity.
+**Key Insight:** HIGHEST EMOTIONAL INVESTMENT. Self-dependency motivation is powerful. Needs: **structured guidance + confidence rebuild + path clarity**. Very high conversion if you remove decision paralysis. Major retention risk if guidance lacks clarity.
 
 ---
 
 ## Example 10: Mixed Profile – Performance Marketing Seeker (Bhubaneswar)
 
-### 📋 Raw Input
+### Raw Input
 ```
 Bhubaneswar (Remote mandatory)
 Experience: 4+ yrs
@@ -705,16 +705,16 @@ Open to: Internship also
 Career urgency: "Delaying will affect confidence & career growth"
 ```
 
-### ✅ AI-Structured Output
+### AI-Structured Output
 
-**👤 Profile Summary**
+**Profile Summary**
 
 - **Location:** Bhubaneswar (Remote mandatory, cannot relocate)
 - **Experience:** 4+ years (mixed: Sales, HR, Marketing touch)
 - **Relationship Status:** Recently married (decision constraint)
 - **Decision Maker:** Self
 
-**💼 Work Experience – Multi-Track**
+**Work Experience – Multi-Track**
 
 **Sales & Business Development**
 - **Byju's:** Sales & Business Development role
@@ -732,15 +732,15 @@ Career urgency: "Delaying will affect confidence & career growth"
 - Digital marketing
 - **(Note:** Exposure-level, not specialized)
 
-**👉 Pattern:** Mixed track record, no deep specialization in any domain
+**Pattern:** Mixed track record, no deep specialization in any domain
 
-**🎓 Education & Upskilling**
+**Education & Upskilling**
 
 - **Education:** MBA Marketing & HR (2020)
 - **Current:** Self-paced marketing course (1 month in progress)
 - **Status:** Exploring, not yet proficient
 
-**🎯 Career Goal & Motivation**
+**Career Goal & Motivation**
 
 **Stated Goal:** Performance marketer → Freelancing (3–5 years)
 
@@ -757,7 +757,7 @@ Career urgency: "Delaying will affect confidence & career growth"
 - **Reason:** "Delay will affect confidence & career growth"
 - **Signal:** Career anxiety is real; confidence is fragile
 
-**💰 Salary & Flexibility**
+**Salary & Flexibility**
 
 - **Expectation:** ₹20K starting (no financial urgency signal)
 - **Flexibility:** Open to internship (willingness shows uncertainty)
@@ -769,37 +769,37 @@ Career urgency: "Delaying will affect confidence & career growth"
 - **Full-time:** 8–10 hrs
 - **Signal:** Can commit, but choice is unclear
 
-**⚡ Quick Summary**
+**Quick Summary**
 
-👉 4-yr mixed career (Sales + HR + Marketing touch) → wants performance marketing role → upskilling in progress → 1–3 months urgency → ₹20K start → remote mandatory.
+4-yr mixed career (Sales + HR + Marketing touch) → wants performance marketing role → upskilling in progress → 1–3 months urgency → ₹20K start → remote mandatory.
 
-**🎯 Conversion Profile – DIRECTION-SEEKING, HIGH ANXIETY**
+**Conversion Profile – DIRECTION-SEEKING, HIGH ANXIETY**
 
 **Strength Signals**
 
-✔ **Career Diverse Experience:** Sales funneling, HR hiring, marketing exposure
-✔ **Education Aligned:** MBA Marketing & HR
-✔ **Active Upskilling:** 1-month course in progress
-✔ **High Availability:** Can do 8–10 hrs/day
-✔ **Real Urgency:** 1–3 months (not deferring)
-✔ **Realistic Salary:** ₹20K is grounded for restart
+- **Career Diverse Experience:** Sales funneling, HR hiring, marketing exposure
+- **Education Aligned:** MBA Marketing & HR
+- **Active Upskilling:** 1-month course in progress
+- **High Availability:** Can do 8–10 hrs/day
+- **Real Urgency:** 1–3 months (not deferring)
+- **Realistic Salary:** ₹20K is grounded for restart
 
 **Risk Flags**
 
-❗ **No Specialization:** Touched sales, HR, marketing—mastered none
-❗ **Career Anxiety Driven:** Feels "stuck, outdated, underutilized"
-❗ **Confidence Fragile:** "Delay affects confidence" → needs frequent reassurance
-❗ **Decision Paralysis:** Open to internship = unsure if role/company/industry
-❗ **Remote Constraint:** Limits role flexibility
-❗ **Goal Clarity:** "Performance marketing" is stated but no demonstrated depth
+- **No Specialization:** Touched sales, HR, marketing, mastered none
+- **Career Anxiety Driven:** Feels "stuck, outdated, underutilized"
+- **Confidence Fragile:** "Delay affects confidence" → needs frequent reassurance
+- **Decision Paralysis:** Open to internship = unsure if role/company/industry
+- **Remote Constraint:** Limits role flexibility
+- **Goal Clarity:** "Performance marketing" is stated but no demonstrated depth
 
-**🎪 Conversion Strategy**
+**Conversion Strategy**
 
-**Clarity First:** "Let's define performance marketing specifically—not 'marketing,' not 'social media,' but **conversion optimization + analytics + user behavior**. Do you know the difference?"
+**Clarity First:** "Let's define performance marketing specifically, not 'marketing,' not 'social media,' but **conversion optimization + analytics + user behavior**. Do you know the difference?"
 
 **Specialization Pressure:** "In 3–5 years, 'freelancing marketer' is vague. 'Freelancing performance marketing consultant with 3-yr track record in SaaS CAC optimization' is hirable. Which one are you building?"
 
-**Internship Reality Check:** "You have 4 years experience. An internship signals reset—which is fine if the role is genuinely stretching you (AI tools, analytics, new methodology). But if it's just 'entry-level pay, flexible hours,' that's panic, not strategy."
+**Internship Reality Check:** "You have 4 years experience. An internship signals reset, which is fine if the role is genuinely stretching you (AI tools, analytics, new methodology). But if it's just 'entry-level pay, flexible hours,' that's panic, not strategy."
 
 **Career Anxiety Channel:** "The 'delay hurts confidence' feeling is real. Here's how we fix it: structured 2–3 month performance marketing practicum (not vague upskilling) → placement in a real performance role → real track record → freelancing in 2–3 years, not 5."
 
@@ -811,7 +811,7 @@ Career urgency: "Delaying will affect confidence & career growth"
 - **Retention:** 6–12 months in right role, then likely will explore freelancing early (anxiety-driven rather than ready)
 - **Key Success Factor:** Frequent feedback loops + visible progress (monthly metrics) to combat confidence fragility
 
-**🎯 Key Insight:** ANXIETY-DRIVEN, NOT CLARITY-DRIVEN. Needs structured reassurance + frequent feedback + real specialization work (not generic "marketing"). High conversion if you can convert anxiety into measurable progress.
+**Key Insight:** ANXIETY-DRIVEN, NOT CLARITY-DRIVEN. Needs structured reassurance + frequent feedback + real specialization work (not generic "marketing"). High conversion if you can convert anxiety into measurable progress.
 
 ---
 
@@ -834,13 +834,8 @@ Career urgency: "Delaying will affect confidence & career growth"
 
 ## What This Data Shows
 
-✅ **Raw input quality matters:** Messy, unstructured consultant notes with 20–40 data points each  
-✅ **Structured output drives conversations:** Organized summaries + intent assessment + conversion hooks  
-✅ **AI identifies patterns humans miss:** "Emotional urgency vs. real urgency," "Stability risk," "FOMO trigger"  
-✅ **Replicable across industries:** These frameworks work for sales, education, tech, consulting  
-✅ **Measurable impact:** Sales team spends minutes reviewing structured summaries vs. 10–20 minutes parsing notes  
-✅ **Conversion roadmap clarity:** Each profile gets a specific, articulated conversion strategy
+Raw consultant notes arrive messy, with 20–40 scattered data points each. The structured output turns them into summaries a salesperson reviews in minutes instead of spending 10–20 minutes parsing narrative notes, and every profile carries an intent assessment, conversion hooks, and a specific follow-up strategy. The distinctions the AI surfaces here (emotional urgency vs. real urgency, stability risk, FOMO triggers) are the ones consultants most often miss, and the same logic transfers to sales, education, tech, or consulting domains.
 
 ---
 
-*Generated from 100+ actual sessions (2024–2025) using the EdTech Session Intelligence system.*
+*Generated from 100+ actual sessions (February to April 2026) using the EdTech Session Intelligence system.*

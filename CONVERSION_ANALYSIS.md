@@ -2,7 +2,7 @@
 
 **AI-generated conversion readiness analysis for all 10 lead profiles**
 
-This file showcases the final layer of the EdTech workflow: AI analyzes each structured profile and provides:
+This file shows the final layer of the EdTech workflow: AI analyzes each structured profile and provides:
 - **Intent Score** (HIGH / MEDIUM / LOW)
 - **1-Line Conversion Explanation** (what drives or blocks conversion)
 - **Primary Signal** (the single most influential factor)
@@ -11,7 +11,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 1: DevOps Engineer, Bangalore
 
-**Intent Score:** 🟢 **HIGH**
+**Intent Score:** **HIGH**
 
 **1-Line Explanation:** Financial pressure + family constraint alignment = urgent need; structured upskilling roadmap with remote option = perfect fit.
 
@@ -21,7 +21,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 2: Business Analyst, Hyderabad
 
-**Intent Score:** 🟢 **HIGH**
+**Intent Score:** **HIGH**
 
 **1-Line Explanation:** Career stagnation + burnout + 2-year job search gap = desperation high; clear income target + timeline = conversion ready.
 
@@ -31,7 +31,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 3: Frontend Developer, Kerala
 
-**Intent Score:** 🟡 **MEDIUM**
+**Intent Score:** **MEDIUM**
 
 **1-Line Explanation:** Career break + identity rebuilding motivation is strong, but family financial support available = urgency is soft; needs identity anchor to move.
 
@@ -41,7 +41,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 4: Data Analyst, Ahmedabad
 
-**Intent Score:** 🟢 **HIGH**
+**Intent Score:** **HIGH**
 
 **1-Line Explanation:** EMI + household support + zero interview calls for 8 months = maximum financial + emotional pain; structured approach directly solves her stated problem.
 
@@ -51,7 +51,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 5: HR Specialist, Punjab
 
-**Intent Score:** 🟡 **MEDIUM**
+**Intent Score:** **MEDIUM**
 
 **1-Line Explanation:** Career pivot motivation is genuine, but family decision-making + spouse's income = lower individual urgency; requires family buy-in first.
 
@@ -61,7 +61,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 6: DevOps Engineer, Bangalore (Senior)
 
-**Intent Score:** 🟢 **HIGH**
+**Intent Score:** **HIGH**
 
 **1-Line Explanation:** Remote mandate pain + dual income household + realistic timeline + willingness to retrain = all green lights; income elasticity = upsell ready.
 
@@ -71,7 +71,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 7: QA Automation, Haldwani
 
-**Intent Score:** 🟡 **MEDIUM**
+**Intent Score:** **MEDIUM**
 
 **1-Line Explanation:** Burnout is real, but "exploring options" not "desperate to switch" = lower urgency; AI anxiety unaddressed = knowledge gap blocker.
 
@@ -81,7 +81,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 8: Operations Analyst, MP
 
-**Intent Score:** 🟢 **HIGH**
+**Intent Score:** **HIGH**
 
 **1-Line Explanation:** Financial independence + identity rebuilding + concrete savings goal ($500/month → real outcome) = maximum motivation; structured plan = conversion certain.
 
@@ -91,7 +91,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 9: Finance Associate, Kolkata
 
-**Intent Score:** 🟡 **MEDIUM**
+**Intent Score:** **MEDIUM**
 
 **1-Line Explanation:** Overqualified + underpaid situation is frustrating, but MBA enrollment = competing priority; timeline conflict = needs sequencing, not just acceleration.
 
@@ -101,7 +101,7 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 
 ## Profile 10: Quality Assurance, Bhubaneswar
 
-**Intent Score:** 🟢 **HIGH**
+**Intent Score:** **HIGH**
 
 **1-Line Explanation:** Zero financial safety net + urgent need to rejoin workforce + specific 6-month deadline + realistic role targets = all conditions met for rapid conversion.
 
@@ -112,11 +112,11 @@ This file showcases the final layer of the EdTech workflow: AI analyzes each str
 ## Conversion Patterns Across All 10 Profiles
 
 ### HIGH Intent Indicators (Profiles 1, 2, 4, 6, 8, 10)
-- Financial pressure (EMI, family support, household needs) ✓
-- Emotional pain (burnout, frustration, isolation) ✓
-- Concrete income target or savings goal ✓
-- Realistic timeline (3-6 months) ✓
-- Willingness to commit time/resources ✓
+- Financial pressure (EMI, family support, household needs)
+- Emotional pain (burnout, frustration, isolation)
+- Concrete income target or savings goal
+- Realistic timeline (3-6 months)
+- Willingness to commit time/resources
 
 ### MEDIUM Intent Indicators (Profiles 3, 5, 7, 9)
 - Identity motivation without financial desperation
@@ -148,16 +148,11 @@ The EdTech system processes raw consultation notes and outputs:
 
 ## For Portfolio Context
 
-This demonstrates:
-- ✅ **AI signal extraction** at scale (100+ profiles analyzed consistently)
-- ✅ **Pattern recognition** (conversion factors across different demographics)
-- ✅ **Nuanced analysis** (not just data extraction, but psychological/contextual reasoning)
-- ✅ **Actionable insights** (1-line explanations guide next conversation, not just categorize)
-- ✅ **Scalable framework** (same logic applies to any consultative sales domain)
+This file shows signal extraction applied consistently across 100+ profiles, pattern recognition across demographics, and analysis that goes past data extraction into psychological and contextual reasoning. Each 1-line explanation exists to guide the next conversation, not just to categorize the lead. The same logic transfers to any consultative sales domain.
 
 ---
 
-**Status:** Production-validated  
-**Profiles Analyzed:** 10 lead types, all conversions tracked  
-**Framework:** Replicable across job categories, geographies, income levels  
+**Status:** Production-validated
+**Profiles Analyzed:** 10 lead types, all conversions tracked
+**Framework:** Replicable across job categories, geographies, income levels
 **Last Updated:** May 16, 2026

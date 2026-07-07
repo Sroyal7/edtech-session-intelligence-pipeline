@@ -1,6 +1,6 @@
 # Implementation Guide: EdTech Session Intelligence Pipeline
 
-This guide walks you through deploying this documentation system in your own environment—from local testing to production CRM integration.
+This guide walks you through deploying this documentation system in your own environment, from local testing to production CRM integration.
 
 ---
 
@@ -51,7 +51,7 @@ with open("system-prompt.md", "r") as f:
 raw_notes = """
 Prospect: Rajesh, 28, IT background. Interested in data analytics bootcamp.
 Asked about job placement and time commitment. Concerned about price ($800).
-We discussed ROI—he said senior data engineers at his company make 3x his salary.
+We discussed ROI, he said senior data engineers at his company make 3x his salary.
 Agreed to review curriculum and call back in 7 days.
 """
 
@@ -199,11 +199,11 @@ All formats work; the system prompt is flexible enough to parse any of these.
 ```python
 def push_to_hubspot(output_json, api_key):
     import requests
-    
+
     prospect = output_json["prospect"]
     conversion = output_json["conversion_signals"]
     follow_up = output_json["follow_up"]
-    
+
     # Create/update contact
     contact_data = {
         "properties": {
@@ -221,7 +221,7 @@ def push_to_hubspot(output_json, api_key):
             "hs_lead_status": conversion["final_status"],
         }
     }
-    
+
     # Create deal if "converted"
     if conversion["final_status"] == "converted":
         deal_data = {
@@ -232,7 +232,7 @@ def push_to_hubspot(output_json, api_key):
             }
         }
         # POST to /crm/v3/objects/deals
-    
+
     # Add activity/note with follow-up actions
     activity_data = {
         "engagement": {
@@ -240,7 +240,7 @@ def push_to_hubspot(output_json, api_key):
             "body": follow_up["suggested_action"]
         }
     }
-    
+
     return contact_data
 ```
 

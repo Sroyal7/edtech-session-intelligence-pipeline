@@ -21,38 +21,38 @@ Talk Track: [SPECIFIC_TALKING_POINT_1] + [SPECIFIC_TALKING_POINT_2]
 ## Field Definitions & Placeholders
 
 ### [ROLE]
-Candidate's professional role/title.  
+Candidate's professional role/title.
 *Examples:* DevOps Engineer, QA Automation, Data Engineer, Backend Developer
 
 ### [INTENT]
-Intent scoring from session.  
+Intent scoring from session.
 *Values:* HIGH | MEDIUM | LOW
 
 ### [YEARS]
-Years of professional experience (total).  
+Years of professional experience (total).
 *Format:* Number only (e.g., 3, 5, 7)
 
 ### [CITY]
-Geographic location of candidate.  
-*Format:* City name, optionally state if relevant  
+Geographic location of candidate.
+*Format:* City name, optionally state if relevant
 *Examples:* Bangalore, Chennai, Hyderabad, Mumbai
 
 ### [CURRENT_LPA]
-Current base salary in LPA (Lakhs Per Annum).  
-*Format:* Numeric range if provided (e.g., 15, 15–16, 14–16)  
+Current base salary in LPA (Lakhs Per Annum).
+*Format:* Numeric range if provided (e.g., 15, 15–16, 14–16)
 *Note:* If unknown, write "Not mentioned"
 
 ### [CURRENT_STATUS]
-Work arrangement type.  
-*Values:* Remote | Hybrid | Office | On-site | Contract  
+Work arrangement type.
+*Values:* Remote | Hybrid | Office | On-site | Contract
 *Format:* Single status or "Hybrid (3 days office, 2 remote)"
 
 ### [EXPECTED_LPA]
-Target salary range in LPA.  
+Target salary range in LPA.
 *Format:* Range preferred (e.g., 18–20, 20–24)
 
 ### [PRIMARY_CONSTRAINT]
-The main factor driving the switch (usually the pain point).  
+The main factor driving the switch (usually the pain point).
 *Examples:*
 - "Office mandate coming (5-day)"
 - "Growth ceiling in current role"
@@ -61,7 +61,7 @@ The main factor driving the switch (usually the pain point).
 - "Relocation required by spouse"
 
 ### [SECONDARY_CONSTRAINTS]
-Additional constraints affecting the candidate.  
+Additional constraints affecting the candidate.
 *Examples:*
 - "Kids (5, 7) + family priorities"
 - "Work-life balance non-negotiable"
@@ -70,11 +70,11 @@ Additional constraints affecting the candidate.
 - "Requires learning opportunity"
 
 ### [IDEAL_TIMELINE]
-Expected timeline for the switch.  
+Expected timeline for the switch.
 *Format:* Duration or month range (e.g., "5–6 months", "Next 3 months", "ASAP")
 
 ### [FLEXIBILITY_NOTE]
-Candidate's flexibility around timeline.  
+Candidate's flexibility around timeline.
 *Examples:*
 - "Early switch possible if right opportunity"
 - "2-month notice period"
@@ -82,7 +82,7 @@ Candidate's flexibility around timeline.
 - "Flexible; no rush"
 
 ### [KEY_STRENGTH_1], [KEY_STRENGTH_2]
-Distinguishing positive signals about the candidate.  
+Distinguishing positive signals about the candidate.
 *Examples:*
 - "Consistent best rating from managers"
 - "Already upskilling (AWS cert)"
@@ -91,7 +91,7 @@ Distinguishing positive signals about the candidate.
 - "Referral quality; no red flags"
 
 ### [PATTERN_NOTE]
-Summary of the candidate's working/growth pattern.  
+Summary of the candidate's working/growth pattern.
 *Examples:*
 - "Structured, ownership-focused approach"
 - "Self-directed learner"
@@ -99,7 +99,7 @@ Summary of the candidate's working/growth pattern.
 - "Cross-functional collaborator"
 
 ### [SPECIFIC_TALKING_POINT_1], [SPECIFIC_TALKING_POINT_2]
-Exactly two talking points for follow-up call. Must be **specific to this candidate's constraints**, not generic.  
+Exactly two talking points for follow-up call. Must be **specific to this candidate's constraints**, not generic.
 *Format:* Action + benefit that addresses their specific pain/constraint
 
 ---
@@ -210,6 +210,6 @@ Talk Track: Too early; follow-up in 6 months. Current: "We think you're a great 
 
 ---
 
-*Template Version: May 2026 – Production-Validated*  
-*Used by: 500+ EdTech consultants, 100+ candidate sessions*  
+*Template Version: May 2026 – Production-Validated*
+*Validated across 100+ candidate sessions, February to April 2026*
 *CRM integrations: HubSpot, Salesforce, Airtable, generic systems*
